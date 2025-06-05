@@ -1,3 +1,6 @@
 [submodule "oz_externship_backend"]
 	path = oz_externship_backend
 	url = https://github.com/OZ-Coding-School/oz_externship_backend.git
+[submodule "oz_externship_frontend"]
+	path = oz_externship_frontend
+	url = https://github.com/OZ-Coding-School/oz_externship_frontend.git
